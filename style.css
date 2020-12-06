@@ -1,0 +1,56 @@
+div {
+    width: 80%;
+    display: inline-block;
+    text-align: justify;
+    padding: 10px;
+    text-align: center;
+}
+#red {
+    background-color:red;
+    color: red;
+    border-radius: 50%;
+}
+#blue {
+    background-color:blue;
+    color: blue;
+    border-radius: 50%;
+}
+#yellow {
+    background-color:yellow;
+    color: yellow;
+    border-radius: 50%;
+}
+#green {
+    background-color:green;
+    color: green;
+    border-radius: 50%;
+}
+#purple {
+    background-color: purple;
+    color: purple;
+    border-radius: 50%;
+}
+#orange {
+    background-color:orange;
+    color: orange;
+    border-radius: 50%;
+}
+
+.redpeg { 
+    color: red;
+}
+.yellowpeg { 
+    color: yellow;
+}
+.greenpeg { 
+    color: green;
+}
+.bluepeg { 
+    color:blue;
+}
+.purplepeg { 
+    color: purple;
+}
+.orangepeg { 
+    color: orange;
+}
