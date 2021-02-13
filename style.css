@@ -1,9 +1,10 @@
 div {
-    width: 80%;
-    display: inline-block;
-    text-align: justify;
+    width: 70%;
+    margin: auto;
     padding: 10px;
     text-align: center;
+    font-family: Arial;
+    border-color: red;
 }
 #red {
     background-color:red;
